@@ -1,6 +1,6 @@
 
 # Introduction
-This is an Exploratory Data Analysis project to analyze the modern Olympic Games, including all the Games from Athens 1896 to Rio 2016. This analysis provides an opportunity to ask questions about how the Olympics have evolved over time, including questions about the participation and performance of women, different nations, and different sports and events.
+This is an Exploratory Data Analysis project to analyze the modern Olympic Games, including all the Games from Athens 1896 to Rio 2016. This analysis provides an opportunity to ask questions about how the Olympics have evolved over time, including questions about the participation and performance of women, different nations, and different sports and events.This app is deployed on the streamlit you can check it here!...<a href="https://olympicdataanalyzer-01.streamlit.app/" target="_blank"><strong>here</strong></a>
 
 # Data Source
 The dataset is collected from <a href="https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results" target="_blank"><strong>here</strong></a>. The dataset contains two files: athlete_events.csv and noc_regions.csv. <br>
@@ -29,7 +29,7 @@ The file noc_regions.csv contains 230 rows and 3 columns. Each row corresponds t
 3. notes
 
 # Python Web App
-This project is deployed on Streamlit Community Cloud. All the graphs and charts are interactive. You can hover over the graphs and charts to get more information. You can also download the graphs and charts in png format.
+This project is deployed on Streamlit Community Cloud webapp(<a href="https://olympicdataanalyzer-01.streamlit.app/" target="_blank"><strong>here</strong></a>). All the graphs and charts are interactive. You can hover over the graphs and charts to get more information. You can also download the graphs and charts in png format.
 
 # Features of the Web App
 The web app provides a brief overview of the dataset. It provides users to choose between 4 options to explore the dataset. The options are:
@@ -63,9 +63,6 @@ This section provides an athlete-wise analysis of the Olympics.
 2. Distribution of Age w.r.t Sports only who have won Gold Medals (Curves)
 3. Gender Ratio with Height vs Weight of the Athletes. Here users can select a Sport as per their choice from the dropdown list. (Scatter Plot) 
 4. Men Vs Women Participation Over the Years (Line Graph)
-
-
-
 
 
 
